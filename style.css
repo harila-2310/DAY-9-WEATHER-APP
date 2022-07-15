@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background: url(./weather.jpg);
+    background-position-y: -50vh;
+
+}
+.container{
+    margin-top: 20vh;
+    font-size: 2em;
+    text-align: center;
+}
+#heading{
+    background: rgba(255, 255, 255, 0.394);
+    font-size: 4em;
+    text-align: center;
+}
+#textBox{
+    width: 20vw;
+    height: 5vh;
+    font-size: 0.6em;
+}
+.value{
+    color: white;
+}
+#submitButton{
+    width:7vw;
+    height:6vh;
+}
