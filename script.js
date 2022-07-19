@@ -1,6 +1,6 @@
 window.onload=()=>{
     const apiKey='74ccac4c4ac87ecd4f7c90674e2399aa';
-    const button =document.getElementById("submitButton");
+    const button =document.getElementById("Button");
     button.onclick=()=>{
         let city=document.getElementById("textBox").value;
         console.log(city);
